@@ -10,7 +10,4 @@ Methodology Followed:
 4. Feature Extraction
 5. Machine learning models
 
-
-Source Code Reference : https://github.com/bharadwajsrikanth
-
 Implementation of Multi-layer Perceptron : https://scikit-learn.org/
